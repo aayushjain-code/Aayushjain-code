@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Jain
 - 👀 I’m interested in Web-Development & Software-Development.
-- 🌱 I’m currently learning React & its frameworks.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web-Dev-project.
 
 <!---
