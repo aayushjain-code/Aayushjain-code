@@ -1,4 +1,12 @@
-- 👋 Hi, I’m Aayush Jain
+
+<div align="center">
+<h1 >Hi 👋, I'm Aayush Jain</h1>
+
+<h3>A passionate web developer and learner, love to design and develop web stuffs.</h3>
+
+[![](https://komarev.com/ghpvc/?username=Aayushjain-code)](https://github.com/Aayushjain-code) 
+
+</div>
 - 👀 I’m interested in Web-Development & Software-Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web-Dev-project.
