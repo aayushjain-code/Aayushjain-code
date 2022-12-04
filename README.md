@@ -7,6 +7,12 @@
 Aayushjain-code/Aayushjain-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+----
+
+### 📫 How to reach me: 
+**aayushjain6020@gmail.com**
+
+----
 
 
 ## 👩‍💻 Tech Skills
@@ -34,3 +40,16 @@ You can click the Preview link to take a look at your changes.
  </div>
  
  ---
+ ## 📊 Github Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushjain-code&show_icons=true&theme=gotham" alt="Aayushjain-code| Stats" />
+   
+  
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanChhatrasal&hide=jupyter%20notebook,html,css&theme=radical)](https://github.com/Aayushjain-code/github-readme-stats)
+  
+  </div>
+  
+  
